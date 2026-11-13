@@ -1,6 +1,6 @@
 # CSA09 Java Assignment 1 – Campus Smart-Parking System
 
-- **Student:** V. C. Bhavan Bairav
+- **Student:** V C Bhavan Bairav
 - **Register Number:** 192511369
 - **Course:** Programming in Java – CSA0912 (CO2)
 - **Assignment**: Assignment 1 – 50 Marks
