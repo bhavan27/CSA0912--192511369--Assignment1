@@ -1,0 +1,1 @@
+TwoWheeler TN01A1; Car TN02B2; ElectricCar TN03C3; duration 130 minutes; EV charging 10 kWh.

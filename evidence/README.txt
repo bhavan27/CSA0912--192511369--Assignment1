@@ -1,1 +1,0 @@
-The PNG files are generated captures of the actual Java program output saved in the matching output.txt files. They are not screenshots of the VS Code interface. Run the programs on your own computer and capture your own terminal screenshots if your faculty specifically requires screenshots.

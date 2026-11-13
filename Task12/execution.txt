@@ -1,3 +1,7 @@
+Compile: SUCCESS
+Run: SUCCESS
+Main class: parking.app.Main
+
 E-bike ticket: PK1001
 Delivery van ticket: PK1002
 Car ticket: PK1003

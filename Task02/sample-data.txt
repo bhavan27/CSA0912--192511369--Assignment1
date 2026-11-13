@@ -1,0 +1,6 @@
+slotsPerFloor = {2, 3, 2}
+vehicleRegistration = TN01AB1111
+parkingDurationMinutes = 90
+hourlyRate = 30.00
+expectedBillableHours = 2
+expectedFee = 60.00

@@ -1,0 +1,3 @@
+Facility capacities: {2, 3, 2}
+Enter: TN01AB1111 (TwoWheeler), TN02CD2222 (Car), TN03EF3333 (ElectricCar)
+Exit: TN01AB1111 after additional 65 minutes

@@ -1,0 +1,1 @@
+Create DemoCar(TN01AB1234) and DemoElectricCar(TN02CD5678, validPass=true).

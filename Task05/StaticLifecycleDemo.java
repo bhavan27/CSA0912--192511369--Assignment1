@@ -60,7 +60,7 @@ class DemoElectricCar extends DemoCar implements PassHolder {
     public boolean hasValidPass() { return validPass; }
 }
 
-public class OOPConceptDemo {
+public class StaticLifecycleDemo {
     public static void main(String[] args) {
         DemoVehicle[] vehicles = {
             new DemoCar("TN01AB1234"),

@@ -1,0 +1,8 @@
+Compile: SUCCESS
+Run: SUCCESS
+Main class: ConstructorDemo
+
+DemoCar[TN01AB1234] fee = Rs 60.0
+DemoElectricCar[TN02CD5678] fee = Rs 80.0
+Objects created = 2
+EV pass valid = true
