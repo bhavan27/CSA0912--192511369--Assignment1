@@ -1,0 +1,9 @@
+Test case | Scenario | Expected result
+1 | Enter two-wheeler | Ticket issued and first free slot allocated
+2 | Enter car | Ticket issued and next free slot allocated
+3 | Enter electric car | Ticket issued and next free slot allocated
+4 | Exit two-wheeler after 65 minutes | 2 billable hours x Rs 10 = Rs 20
+5 | Exit car after 120 minutes | 2 hours x Rs 30 = Rs 60
+6 | Valid monthly pass | Parking fee = Rs 0
+7 | Duplicate active registration | Reject duplicate entry
+8 | Unknown registration on exit | Reject exit request

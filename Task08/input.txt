@@ -1,0 +1,2 @@
+Parking duration: 130 minutes for each vehicle.
+EV charging consumption: 10 kWh.

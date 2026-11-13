@@ -1,0 +1,7 @@
+Test case | Scenario | Expected result
+1 | Five floors with capacities [3,4,2,5,1] | Unequal floor capacities supported
+2 | E-bike | Flat fee according to implementation
+3 | Delivery van entering 10 AM-5 PM | Double car hourly rate
+4 | Delivery van outside 9 AM-5 PM | Normal car hourly rate
+5 | Valid one-day pass | Parking fee = Rs 0
+6 | Duplicate active registration | Reject duplicate entry

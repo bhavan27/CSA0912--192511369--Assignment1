@@ -1,0 +1,6 @@
+E-bike ticket: PK1001
+Delivery van ticket: PK1002
+Car ticket: PK1003
+E-bike fee: Rs 20.0
+Van fee: Rs 120.0
+Car fee with one-day pass: Rs 0.0
