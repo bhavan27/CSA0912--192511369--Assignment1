@@ -1,9 +1,9 @@
 # CSA09 Java Assignment 1 – Campus Smart-Parking System
 
-**Student:** V. C. Bhavan Bairav
-**Register Number:** 192511369
-**Course:** Programming in Java – CSA0912 (CO2)
-**Assignment**: Assignment 1 – 50 Marks
+- **Student:** V. C. Bhavan Bairav
+- **Register Number:** 192511369
+- **Course:** Programming in Java – CSA0912 (CO2)
+- **Assignment**: Assignment 1 – 50 Marks
 
 This repository contains my Java Assignment 1, based on the Campus Smart-Parking System. The assignment is organised into 12 folders, with each folder covering a specific task, from basic Java concepts to the integrated parking system.
 
